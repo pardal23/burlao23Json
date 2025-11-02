@@ -1,0 +1,5 @@
+{
+  "name": "Search Injector Tool",
+  "description": "An advanced tool to generate custom search links for Google, Bing, or a custom base URL with JSON parameters.",
+  "requestFramePermissions": []
+}
